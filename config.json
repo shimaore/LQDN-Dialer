@@ -1,0 +1,4 @@
+{
+  "exten_from": "2000"
+, "context": "lqdn-dialer"
+}
